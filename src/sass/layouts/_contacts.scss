@@ -1,0 +1,11 @@
+.contact {
+    width: 100%;
+    display: grid;
+    grid-template-columns: repeat(1,1fr);
+    gap: 16px;
+}
+.contact__card{
+    grid-column-end: 1 span;
+
+}
+.contact__title{}
